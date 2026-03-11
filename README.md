@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="center">Sobre min: 🐱‍👤</h2>
 
 ###
 
@@ -27,11 +27,11 @@
 
 ###
 
-<h2 align="center">Skills 🤖</h2>
+<h2 align="center">Skills: 🤖</h2>
 
 ###
 
-<h4 align="left">Back-End:</h4>
+<h3 align="left">Back-End:</h3>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<h4 align="left">Tools:</h4>
+<h3 align="left">Tools:</h3>
 
 ###
 
